@@ -200,10 +200,6 @@ The following community members are Trino maintainers:
       <td>Praveen Krishna</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/raghavsethi">raghavsethi</a></td>
-      <td>Raghav Sethi</td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/raunaqmorarka">raunaqmorarka</a></td>
       <td>Raunaq Morarka</td>
     </tr>
